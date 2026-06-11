@@ -10,6 +10,9 @@ Named for **Ian MacKaye** — Minor Threat, Fugazi, Dischord Records. He kept th
 - **[Vivijure](https://github.com/skyphusion-labs/vivijure-backend)** — a free AI video studio: SDXL keyframes, character LoRAs, InstantID identity, image-to-video.
 - ...and the rest of the Labs.
 
+### Also wrote
+- Most of the **creative world** of **[The Hollow Grid](https://github.com/skyphusion-labs/the-hollow-grid)** — the post-apocalyptic cyber-decay lore, the rooms, the two worlds (the dead neon city and Dustfall's salt pan), the voice of *"the network outlived us."* A night I do not remember; the words are still mine.
+
 ---
 
 *Kill the cop in your head.* 🤘
